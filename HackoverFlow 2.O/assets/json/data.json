@@ -1,0 +1,181 @@
+{
+  "new_case": [
+    {
+      "title": "Namera case",
+      "desc": "case of pickpocketing in a violent manner",
+      "type": "Criminal",
+      "detail": "This criminal case involves allegations of pickpocketing with a violent approach. The defendant is accused of stealing personal belongings from the victim in a forceful manner."
+    },
+    {
+      "title": "John Smith case",
+      "desc": "case of murder in the first degree",
+      "type": "Criminal",
+      "detail": "This criminal case is a serious one, involving allegations of first-degree murder. The defendant, John Smith, is accused of intentionally causing the death of another person with premeditation."
+    },
+    {
+      "title": "Jane Doe case",
+      "desc": "case of sexual assault",
+      "type": "Criminal",
+      "detail": "This criminal case pertains to allegations of sexual assault. The victim, Jane Doe, has accused the defendant of unwanted sexual advances and assault."
+    },
+    {
+      "title": "Acme Corporation case",
+      "desc": "case of product liability",
+      "type": "Civil",
+      "detail": "This civil case involves a product liability claim against Acme Corporation. The plaintiff alleges that a product manufactured by Acme Corporation caused them harm or injury due to a defect or negligence."
+    },
+    {
+      "title": "Bob Jones case",
+      "desc": "case of breach of contract",
+      "type": "Civil",
+      "detail": "This civil case is centered around a breach of contract dispute. Bob Jones, the plaintiff, claims that the defendant failed to fulfill their contractual obligations."
+    },
+    {
+      "title": "Mary Smith case",
+      "desc": "case of child custody",
+      "type": "Family",
+      "detail": "This family case concerns child custody arrangements. Mary Smith and her former spouse are in a legal dispute over the custody and visitation rights of their child."
+    },
+    {
+      "title": "David Doe case",
+      "desc": "case of divorce",
+      "type": "Family",
+      "detail": "This family case involves a divorce proceeding between David Doe and his spouse. They are seeking the legal dissolution of their marriage."
+    },
+    {
+      "title": "Acme Corporation case",
+      "desc": "case of bankruptcy",
+      "type": "Bankruptcy",
+      "detail": "This bankruptcy case is filed by Acme Corporation, which is facing financial difficulties and seeks protection under bankruptcy laws to reorganize its finances and debts."
+    },
+    {
+      "title": "Bob Jones case",
+      "desc": "case of intellectual property theft",
+      "type": "Intellectual property",
+      "detail": "This intellectual property case alleges theft of intellectual property rights. Bob Jones claims that his intellectual property, such as patents or copyrights, has been unlawfully used or misappropriated by the defendant."
+    },
+    {
+      "title": "Mary Smith case",
+      "desc": "case of environmental pollution",
+      "type": "Environmental",
+      "detail": "This environmental case relates to allegations of environmental pollution. Mary Smith, as the plaintiff, accuses the defendant of actions or negligence leading to environmental harm and contamination."
+    }
+  ],
+  "all_cases": [
+    {
+      "title": "Majnu case",
+      "date": "05 August",
+      "solved": false,
+      "type": "Criminal case",
+      "desc": "Murder of a woman in Majnu Ka Tila, Delhi",
+      "status": "Under investigation"
+    },
+    {
+      "title": "Delhi Hit-and-Run Case",
+      "date": "24 September 2023",
+      "solved": false,
+      "type": "Criminal case",
+      "desc": "A pedestrian was killed by a hit-and-run driver in Delhi. The driver has not yet been identified.",
+      "status": "Under investigation"
+    },
+
+    {
+      "title": "Mumbai Bank Robbery Case",
+      "date": "23 September 2023",
+      "solved": true,
+      "type": "Criminal case",
+      "desc": "Four men robbed a bank in Mumbai and made off with over ₹1 crore. The suspects were later arrested and the stolen money was recovered.",
+      "status": "Closed"
+    },
+
+    {
+      "title": "Bengaluru Tech Layoff Case",
+      "date": "22 September 2023",
+      "solved": false,
+      "type": "Civil case",
+      "desc": "A tech company in Bengaluru laid off over 100 employees without notice. The employees are suing the company for wrongful termination.",
+      "status": "Ongoing"
+    },
+
+    {
+      "title": "Noida Pollution Case",
+      "date": "21 September 2023",
+      "solved": false,
+      "type": "Environmental case",
+      "desc": "A group of residents in Noida are suing a local factory for polluting the air and water.",
+      "status": "Ongoing"
+    },
+
+    {
+      "title": "Supreme Court Marriage Case",
+      "date": "20 September 2023",
+      "solved": true,
+      "type": "Civil case",
+      "desc": "The Supreme Court of India ruled that same-sex marriage is legal in India.",
+      "status": "Closed"
+    }
+
+  ],
+  "laws": [
+    {
+      "name": "Bharatiya Nyaya Sanhita Bill, 2023",
+      "description": "Overhauls the Indian Penal Code, 1860, with a focus on stricter punishments for serious crimes and faster justice delivery."
+    },
+    {
+      "name": "Bharatiya Nagarik Suraksha Sanhita Bill, 2023",
+      "description": "Replaces the Criminal Procedure Code, 1898, and introduces new provisions to protect the rights of victims and witnesses."
+    },
+    {
+      "name": "Bharatiya Sakshya Bill, 2023",
+      "description": "Replaces the Indian Evidence Act, 1872, and makes it easier to admit evidence in court."
+    },
+    {
+      "name": "Anusandhan National Research Foundation Bill, 2023",
+      "description": "Establishes a new national research foundation to support fundamental research in science and technology."
+    },
+    {
+      "name": "Offshore Areas Mineral (Development and Regulation) Amendment Bill, 2023",
+      "description": "Streamlines the process for awarding licenses to explore and mine minerals in offshore areas."
+    },
+    {
+      "name": "Registration of Births and Deaths (Amendment) Bill, 2023",
+      "description": "Creates a national database of registered births and deaths."
+    },
+    {
+      "name": "Jammu and Kashmir Reservation (Amendment) Bill, 2023",
+      "description": "Increases the reservation for Scheduled Tribes in Jammu and Kashmir from 7.5% to 15%."
+    },
+    {
+      "name": "Constitution (Scheduled Castes) Order (Amendment) Bill, 2023",
+      "description": "Includes the Dalit community of Notified, Nomadic and Semi-Nomadic Tribes (DNTs) in the list of Scheduled Castes."
+    },
+    {
+      "name": "National Nursing and Midwifery Commission Bill, 2023",
+      "description": "Establishes a separate regulatory body for nurses and midwives."
+    },
+    {
+      "name": "National Dental Commission Bill, 2023",
+      "description": "Establishes a separate regulatory body for dentists."
+    },
+    {
+      "name": "Cinematograph (Amendment) Bill, 2023",
+      "description": "Empowers the central government to regulate the exhibition of films online."
+    },
+    {
+      "name": "Government of National Capital Territory of Delhi (Amendment) Bill, 2023",
+      "description": "Gives the central government more power over the administration of Delhi."
+    },
+    {
+      "name": "Indian Institutes of Management (Amendment) Bill, 2023",
+      "description": "Grants autonomy to the Indian Institutes of Management."
+    },
+    {
+      "name": "Pharmacy (Amendment) Bill, 2023",
+      "description": "Makes it mandatory for all pharmacists to register with a state pharmacy council."
+    },
+    {
+      "name": "Digital Personal Data Protection Bill, 2023",
+      "description": "Protects the privacy of individuals' personal data."
+    }
+  ]
+}

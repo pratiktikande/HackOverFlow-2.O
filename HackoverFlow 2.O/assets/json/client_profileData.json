@@ -1,0 +1,13 @@
+{
+  "headerImage": "assets/images/logo.png",
+  "generalInformation": {
+    "name": "Jayesh",
+    "location": "Dhinchak Nagar,USA",
+    "email": "GojoSatorou@gmail.com.com",
+    "phone": "+1 (123) 456-7890"
+  },
+  "contactInformation": {
+    "website": "www.GojoSatorou.com",
+    "linkedin": "linkedin.com/in/GojoSatorou"
+  }
+}

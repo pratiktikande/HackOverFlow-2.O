@@ -1,0 +1,34 @@
+{
+  "requests": [
+    {
+      "reqinfor": {
+        "id": "request1",
+        "title": "Contract Review for Business Agreement"
+      },
+      "provinfor": {
+        "id": "lawyer123",
+        "name": "John Doe"
+      }
+    },
+    {
+      "reqinfor": {
+        "id": "request1",
+        "title": "Contract Review for Business Agreement"
+      },
+      "provinfor": {
+        "id": "arbitrator456",
+        "name": "David Smith"
+      }
+    },
+    {
+      "reqinfor": {
+        "id": "request3",
+        "title": "Real Estate Purchase Agreement Review"
+      },
+      "provinfor": {
+        "id": "lawyer123",
+        "name": "John Doe"
+      }
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "requests": [
+    {
+      "id": "request1",
+      "title": "Contract Review for Business Agreement",
+      "user_information": {
+        "name": "John Doe",
+        "contact_information": {
+          "email": "john.doe@example.com",
+          "phone": "+1 (123) 456-7890"
+        },
+        "address": "123 Main Street, Anytown, USA"
+      },
+      "service_details": {
+        "type_of_service": "Contract Review",
+        "description": "Review and advise on a business contract.",
+        "jurisdiction": "California, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["contract.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 1000,
+        "pricing_model": "Fixed Fee"
+      },
+      "timeline": {
+        "start_date": "2023-10-15",
+        "deadline": "2023-11-15"
+      },
+      "communication_preferences": {
+        "preferred_method": "Email",
+        "availability": "Evenings and weekends"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "No additional requirements.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Legal Solutions, LLC"
+    },
+    {
+      "id": "request2",
+      "title": "Legal Advice and Representation for Divorce",
+      "user_information": {
+        "name": "Alice Smith",
+        "contact_information": {
+          "email": "alice.smith@example.com",
+          "phone": "+1 (234) 567-8901"
+        },
+        "address": "456 Oak Avenue, Somewhere, USA"
+      },
+      "service_details": {
+        "type_of_service": "Divorce Proceedings",
+        "description": "Seek legal advice and representation for divorce.",
+        "jurisdiction": "New York, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["divorce-papers.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 5000,
+        "pricing_model": "Hourly Rate"
+      },
+      "timeline": {
+        "start_date": "2023-11-01",
+        "deadline": "2024-01-31"
+      },
+      "communication_preferences": {
+        "preferred_method": "Phone",
+        "availability": "Weekdays, 9 AM - 5 PM"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Seeking a collaborative divorce process.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Smith & Associates Law Firm"
+    },
+    {
+      "id": "request3",
+      "title": "Real Estate Purchase Agreement Review",
+      "user_information": {
+        "name": "Emily Johnson",
+        "contact_information": {
+          "email": "emily.johnson@example.com",
+          "phone": "+1 (345) 678-9012"
+        },
+        "address": "789 Elm Street, Anotherplace, USA"
+      },
+      "service_details": {
+        "type_of_service": "Real Estate Agreement Review",
+        "description": "Review and advise on a real estate purchase agreement.",
+        "jurisdiction": "Texas, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["realestate-agreement.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 1200,
+        "pricing_model": "Fixed Fee"
+      },
+      "timeline": {
+        "start_date": "2023-10-20",
+        "deadline": "2023-11-30"
+      },
+      "communication_preferences": {
+        "preferred_method": "Email",
+        "availability": "Weekdays, 10 AM - 6 PM"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Looking for a quick turnaround.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Johnson & Smith Legal Services"
+    },
+    {
+      "id": "request4",
+      "title": "Estate Planning and Will Drafting",
+      "user_information": {
+        "name": "Robert Turner",
+        "contact_information": {
+          "email": "robert.turner@example.com",
+          "phone": "+1 (456) 789-0123"
+        },
+        "address": "567 Pine Lane, Another Town, USA"
+      },
+      "service_details": {
+        "type_of_service": "Estate Planning",
+        "description": "Seek advice and assistance in drafting a will.",
+        "jurisdiction": "Florida, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["estate-documents.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 1500,
+        "pricing_model": "Fixed Fee"
+      },
+      "timeline": {
+        "start_date": "2023-11-05",
+        "deadline": "2023-12-15"
+      },
+      "communication_preferences": {
+        "preferred_method": "Phone",
+        "availability": "Weekdays, 9 AM - 4 PM"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Include provisions for charitable donations.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Turner Legal Solutions"
+    },
+    {
+      "id": "request5",
+      "title": "Criminal Defense Representation",
+      "user_information": {
+        "name": "Michael Davis",
+        "contact_information": {
+          "email": "michael.davis@example.com",
+          "phone": "+1 (567) 890-1234"
+        },
+        "address": "890 Cedar Road, Another City, USA"
+      },
+      "service_details": {
+        "type_of_service": "Criminal Defense",
+        "description": "Seek legal representation for a criminal case.",
+        "jurisdiction": "Illinois, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["criminal-case-docs.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 8000,
+        "pricing_model": "Hourly Rate"
+      },
+      "timeline": {
+        "start_date": "2023-10-25",
+        "deadline": "2024-03-01"
+      },
+      "communication_preferences": {
+        "preferred_method": "Email",
+        "availability": "Flexible"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Need a strong defense strategy.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Davis Legal Services"
+    },
+    {
+      "id": "request6",
+      "title": "Business Incorporation and Legal Consultation",
+      "user_information": {
+        "name": "Sarah Anderson",
+        "contact_information": {
+          "email": "sarah.anderson@example.com",
+          "phone": "+1 (678) 901-2345"
+        },
+        "address": "1234 Maple Street, New City, USA"
+      },
+      "service_details": {
+        "type_of_service": "Business Incorporation",
+        "description": "Incorporate a new business and obtain legal consultation.",
+        "jurisdiction": "Nevada, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["business-docs.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 3000,
+        "pricing_model": "Fixed Fee"
+      },
+      "timeline": {
+        "start_date": "2023-11-10",
+        "deadline": "2023-12-20"
+      },
+      "communication_preferences": {
+        "preferred_method": "Phone",
+        "availability": "Weekdays, 9 AM - 5 PM"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Seeking guidance on legal structure.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Anderson Business Legal"
+    },
+    {
+      "id": "request7",
+      "title": "Intellectual Property Patent Application",
+      "user_information": {
+        "name": "Linda Patel",
+        "contact_information": {
+          "email": "linda.patel@example.com",
+          "phone": "+1 (789) 012-3456"
+        },
+        "address": "5678 Birch Lane, Another Town, USA"
+      },
+      "service_details": {
+        "type_of_service": "Patent Application",
+        "description": "File a patent application for an innovative invention.",
+        "jurisdiction": "New Jersey, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["patent-docs.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 2500,
+        "pricing_model": "Hourly Rate"
+      },
+      "timeline": {
+        "start_date": "2023-10-18",
+        "deadline": "2023-12-31"
+      },
+      "communication_preferences": {
+        "preferred_method": "Email",
+        "availability": "Flexible"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Looking for expedited processing.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Patel Innovations Legal"
+    },
+    {
+      "id": "request8",
+      "title": "Employment Discrimination Legal Representation",
+      "user_information": {
+        "name": "Daniel Lee",
+        "contact_information": {
+          "email": "daniel.lee@example.com",
+          "phone": "+1 (890) 123-4567"
+        },
+        "address": "12345 Oak Street, Someplace, USA"
+      },
+      "service_details": {
+        "type_of_service": "Employment Discrimination",
+        "description": "Seek legal representation for an employment discrimination case.",
+        "jurisdiction": "Pennsylvania, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["discrimination-case-docs.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 6000,
+        "pricing_model": "Hourly Rate"
+      },
+      "timeline": {
+        "start_date": "2023-11-08",
+        "deadline": "2024-02-29"
+      },
+      "communication_preferences": {
+        "preferred_method": "Phone",
+        "availability": "Weekdays, 9 AM - 5 PM"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Strong case, seeking a favorable outcome.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Lee Legal Advocates"
+    },
+    {
+      "id": "request9",
+      "title": "Personal Injury Claim Representation",
+      "user_information": {
+        "name": "Jennifer Brown",
+        "contact_information": {
+          "email": "jennifer.brown@example.com",
+          "phone": "+1 (234) 567-8901"
+        },
+        "address": "6789 Willow Road, Some Town, USA"
+      },
+      "service_details": {
+        "type_of_service": "Personal Injury Claim",
+        "description": "Seek legal representation for a personal injury claim.",
+        "jurisdiction": "Michigan, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["injury-claim-docs.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 7000,
+        "pricing_model": "Hourly Rate"
+      },
+      "timeline": {
+        "start_date": "2023-10-30",
+        "deadline": "2024-01-15"
+      },
+      "communication_preferences": {
+        "preferred_method": "Email",
+        "availability": "Flexible"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Seeking maximum compensation for injuries.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Brown Injury Law Firm"
+    },
+    {
+      "id": "request10",
+      "title": "Immigration Visa Application Assistance",
+      "user_information": {
+        "name": "Maria Garcia",
+        "contact_information": {
+          "email": "maria.garcia@example.com",
+          "phone": "+1 (456) 789-0123"
+        },
+        "address": "2345 Cedar Avenue, New Town, USA"
+      },
+      "service_details": {
+        "type_of_service": "Immigration Visa Application",
+        "description": "Assistance with the application for a family-based immigration visa.",
+        "jurisdiction": "Texas, USA",
+        "preferred_language": "English"
+      },
+      "document_upload": {
+        "attached_documents": ["immigration-docs.pdf"]
+      },
+      "budget_and_pricing": {
+        "budget": 2000,
+        "pricing_model": "Fixed Fee"
+      },
+      "timeline": {
+        "start_date": "2023-11-15",
+        "deadline": "2024-01-31"
+      },
+      "communication_preferences": {
+        "preferred_method": "Phone",
+        "availability": "Weekdays, 9 AM - 4 PM"
+      },
+      "conflict_of_interest": "None",
+      "additional_information": "Need assistance with all paperwork and forms.",
+      "terms_and_conditions_accepted": true,
+      "privacy_consent_given": true,
+      "serv_prov": "Garcia Immigration Services"
+    }
+  ]
+}

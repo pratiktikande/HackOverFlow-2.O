@@ -1,0 +1,106 @@
+{
+  "connections": [
+    {
+      "id": "arbitrator456",
+      "headerImage": "assets/images/logo.png",
+      "generalInformation": {
+        "name": "David Smith",
+        "location": "Chicago, USA",
+        "email": "david.smith@example.com",
+        "phone": "+1 (777) 234-5678"
+      },
+      "profession": "Arbitrator",
+      "expertise": ["Commercial Arbitration", "Labor Disputes", "International Trade"],
+      "notableCases": [
+        "Smith Corp. v. Johnson Ltd. (2022)",
+        "National Labor Union v. Employers Association (2021)",
+        "International Trade Dispute (2020)"
+      ],
+      "education": [
+        "LL.M. in Arbitration - Pepperdine University",
+        "B.A. in Economics - University of Chicago"
+      ],
+      "certifications": ["Certified Arbitrator (2021)", "International Arbitration Expert (2020)"],
+      "contactInformation": {
+        "website": "www.davidsmitharbitration.com",
+        "linkedin": "linkedin.com/in/davidsmitharbitrator"
+      }
+    },
+    {
+      "id": "mediator789",
+      "headerImage": "assets/images/logo.png",
+      "generalInformation": {
+        "name": "Emily Williams",
+        "location": "San Francisco, USA",
+        "email": "emily.w@example.com",
+        "phone": "+1 (888) 345-6789"
+      },
+      "profession": "Mediator",
+      "specializations": ["Family Mediation", "Workplace Disputes", "Community Conflicts"],
+      "notableCases": [
+        "Smith Family Mediation (2022)",
+        "Corporate Workplace Resolution (2021)",
+        "Community Conflict Resolution (2020)"
+      ],
+      "education": [
+        "M.A. in Mediation and Conflict Resolution - Stanford University",
+        "B.S. in Psychology - UC Berkeley"
+      ],
+      "certifications": ["Certified Mediator (2021)", "Advanced Conflict Resolution Training (2020)"],
+      "contactInformation": {
+        "website": "www.emilywilliamsmediation.com",
+        "linkedin": "linkedin.com/in/emilywilliamsmediator"
+      }
+    },
+    {
+      "id": "documentwriter101",
+      "headerImage": "assets/images/logo.png",
+      "generalInformation": {
+        "name": "Robert Turner",
+        "location": "Houston, USA",
+        "email": "robert.t@example.com",
+        "phone": "+1 (999) 456-7890"
+      },
+      "profession": "Document Writer",
+      "services": ["Legal Document Drafting", "Wills and Trusts", "Business Contracts"],
+      "notableProjects": [
+        "XYZ Corp. Partnership Agreement (2022)",
+        "Last Will and Testament for Smith Family (2021)",
+        "Legal Contracts for Small Businesses (2020)"
+      ],
+      "education": [
+        "Certified Document Specialist (CDS)",
+        "A.A. in Paralegal Studies - Houston Community College"
+      ],
+      "contactInformation": {
+        "website": "www.robertturnerdocuments.com",
+        "linkedin": "linkedin.com/in/robertturnerdocwriter"
+      }
+    },
+    {
+      "id": "notarypublic555",
+      "headerImage": "assets/images/logo.png",
+      "generalInformation": {
+        "name": "Sarah Brown",
+        "location": "Miami, USA",
+        "email": "sarah.b@example.com",
+        "phone": "+1 (333) 567-8901"
+      },
+      "profession": "Notary Public",
+      "services": ["Notarization of Legal Documents", "Affidavits", "Real Estate Closings"],
+      "notableNotarizations": [
+        "Real Estate Sale and Purchase Agreements (2022)",
+        "Affidavit for Court Proceedings (2021)",
+        "Power of Attorney Documents (2020)"
+      ],
+      "education": [
+        "Certified Notary Public",
+        "B.A. in Business Administration - University of Miami"
+      ],
+      "contactInformation": {
+        "website": "www.sarahbrownnotary.com",
+        "linkedin": "linkedin.com/in/sarahbrownnotary"
+      }
+    }
+  ]
+}

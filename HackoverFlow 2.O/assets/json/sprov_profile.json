@@ -1,0 +1,24 @@
+{
+  "headerImage": "assets/images/logo.png",
+  "generalInformation": {
+    "name": "John Doe",
+    "location": "New York, USA",
+    "email": "john.doe@example.com",
+    "phone": "+1 (123) 456-7890"
+  },
+  "skills": ["Corporate Law", "Criminal Defense", "Family Law"],
+  "notableCases": [
+    "Smith v. Jones (2022)",
+    "State v. Johnson (2021)",
+    "Doe v. Roe (2020)"
+  ],
+  "education": [
+    "LL.B. - Harvard Law School",
+    "B.A. in Political Science - Stanford University"
+  ],
+  "awardsAndRecognitions": ["Best Lawyer Award (2021)", "Legal Eagle Award (2020)"],
+  "contactInformation": {
+    "website": "www.johndoelegal.com",
+    "linkedin": "linkedin.com/in/johndoe"
+  }
+}
