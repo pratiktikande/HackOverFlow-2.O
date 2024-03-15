@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^6.0.5
   shared_preferences: ^2.2.1
-  url_launcher: ^6.1.14
+  url_launcher: ^6.2.5
   table_calendar: ^3.0.9
   device_apps: ^2.2.0
   syncfusion_flutter_pdf: ^23.1.36
@@ -50,6 +50,7 @@ dependencies:
   flutter_svg: ^2.0.7
   image_picker: ^1.0.4
   syncfusion_flutter_pdfviewer: ^23.2.7
+  android_intent_plus: ^4.0.3
 
 
 

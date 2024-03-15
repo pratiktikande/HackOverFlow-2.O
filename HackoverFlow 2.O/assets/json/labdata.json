@@ -1,0 +1,62 @@
+{
+  "LABEL_0": [
+    {
+      "name": "John Smith",
+      "specialization": "Corporate Law",
+      "location": "New York",
+      "experience": "10 years"
+    },
+    {
+      "name": "Alice Johnson",
+      "specialization": "Intellectual Property Law",
+      "location": "San Francisco",
+      "experience": "8 years"
+    },
+    {
+      "name": "Michael Brown",
+      "specialization": "Tax Law",
+      "location": "Chicago",
+      "experience": "12 years"
+    }
+  ],
+  "LABEL_1": [
+    {
+      "name": "Emily Parker",
+      "specialization": "Family Law",
+      "location": "Los Angeles",
+      "experience": "7 years"
+    },
+    {
+      "name": "David Lee",
+      "specialization": "Immigration Law",
+      "location": "Houston",
+      "experience": "9 years"
+    },
+    {
+      "name": "Jennifer White",
+      "specialization": "Criminal Law",
+      "location": "Miami",
+      "experience": "11 years"
+    }
+  ],
+  "LABEL_2": [
+    {
+      "name": "Robert Johnson",
+      "specialization": "Environmental Law",
+      "location": "Seattle",
+      "experience": "6 years"
+    },
+    {
+      "name": "Sophia Anderson",
+      "specialization": "Healthcare Law",
+      "location": "Boston",
+      "experience": "5 years"
+    },
+    {
+      "name": "Daniel Martinez",
+      "specialization": "Real Estate Law",
+      "location": "Dallas",
+      "experience": "8 years"
+    }
+  ]
+}
